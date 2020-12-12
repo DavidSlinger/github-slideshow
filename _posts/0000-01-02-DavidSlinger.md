@@ -2,5 +2,6 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Shut up Wesley!"
+-Cpt Jean-Luc Picard
 Use the left arrow to go back!
